@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "rails", "~> 8.0.2"
 
 gem "bootsnap", require: false
+gem "humid", "~> 0.0.6"
 gem "jbuilder"
 gem "jsbundling-rails"
 gem "kamal", require: false
