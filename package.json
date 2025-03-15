@@ -1,4 +1,18 @@
 {
   "name": "app",
-  "private": true
+  "private": true,
+  "packageManager": "yarn@4.7.0",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "@thoughtbot/superglue": "^1.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "@thoughtbot/candy_wrapper": "^0.0.3",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4"
+  }
 }
