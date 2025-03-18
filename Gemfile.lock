@@ -314,7 +314,7 @@ GEM
       net-ssh (>= 2.8.0)
       ostruct
     stringio (3.1.5)
-    superglue (1.1.0)
+    superglue (1.1.1)
       actionpack (>= 7.0, < 9.0)
       form_props (~> 0.2)
       props_template (~> 0.37)
