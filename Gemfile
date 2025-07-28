@@ -7,7 +7,7 @@ gem "humid", "~> 0.0.6"
 gem "jbuilder"
 gem "jsbundling-rails"
 gem "kamal", require: false
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.6"
 gem "propshaft"
 gem "puma", ">= 5.0"
 gem "solid_cable"
